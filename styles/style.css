@@ -126,7 +126,7 @@ img {
 
 
 
-@media(max-width: 500px){
+@media(max-width: 900px){
   .nav-item{
     display: block;
     
